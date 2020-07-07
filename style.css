@@ -1,0 +1,63 @@
+body{
+    margin-top: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+/*
+.bg{
+    background-image: url('images/bg-1.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+}
+.bg1{
+    background-image: url('images/bg-2.png');
+    background-repeat: no-repeat;
+    background-position: left bottom;
+    background-size: 100px 100px;
+    height: 80px;
+} 
+*/
+.smart{
+    color: orange;
+}
+}
+h1{
+    text-size:20px;
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+
+p{
+    color: dimgray;
+}
+.buy-now-button{
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    padding: 6px 25px;
+    cursor: pointer;
+    text-transform: uppercase;
+}
+.card{
+    border: none;
+    border-radius: 20px;
+    box-shadow:auto;
+}
+.smart-c{
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.lap-c{
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.cate-c{
+    margin-top: 100px;
+    margin-bottom: 100px;
+    text-align: center;
+}
+.container .pale-o{
+    width: 300px;
+    height: 400px;
+}
