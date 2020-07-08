@@ -44,6 +44,14 @@ p{
     border-radius: 20px;
     box-shadow:auto;
 }
+.smartphone .card-footer{
+    border: none;
+    background-color: white;
+}
+.laptop .card-footer{
+    border: none;
+    background-color: white;
+}
 .smart-c{
     margin-top: 100px;
     margin-bottom: 100px;
@@ -60,4 +68,19 @@ p{
 .container .pale-o{
     width: 300px;
     height: 400px;
+}
+.text-center {
+    text-align: center!important;
+}
+.align-items-center {
+    -ms-flex-align: center!important;
+    align-items: center!important;
+}
+.row {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;
 }
